@@ -1,0 +1,14 @@
+.DS_Store
+# Python
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+# Modelos
+*.pt
+*.pth
+*.onnx
+
+# Jupyter
+.ipynb_checkpoints/
